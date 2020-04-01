@@ -1,0 +1,153 @@
+<resources>
+    <string name="appname">oxybeats</string>
+    <string name="username">Mail</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="swipe_left_to_register">Swipe left to Register!</string>
+    <string name="name">Name</string>
+    <string name="dni">DNI</string>
+    <string name="dd_mm_aaaa">DD/MM/AAAA</string>
+    <string name="create_account">Create Account</string>
+    <string name="swipe_right_to_login">Swipe Right to Login</string>
+    <string name="gender">Gender</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="account">Profile</string>
+    <string name="notifications">Notifications</string>
+    <string name="home">Home</string>
+    <string name="log_out">Log Out</string>
+
+    <string-array name="genderTypes">
+        <item>Female</item>
+        <item>Male</item>
+        <item>Non-Binary</item>
+    </string-array>
+
+    <string-array name="timeSpinner">
+        <item>Hoy</item>
+        <item>Semana</item>
+        <item>Mes</item>
+    </string-array>
+
+
+    <string-array name="dayArrayD">
+        <item>l</item>
+        <item>m</item>
+        <item>m</item>
+        <item>j</item>
+        <item>v</item>
+        <item>s</item>
+        <item>d</item>
+    </string-array>
+
+    <string-array name="dayArrayL">
+        <item>m</item>
+        <item>m</item>
+        <item>j</item>
+        <item>v</item>
+        <item>s</item>
+        <item>d</item>
+        <item>l</item>
+    </string-array>
+
+    <string-array name="dayArrayM">
+        <item>m</item>
+        <item>j</item>
+        <item>v</item>
+        <item>s</item>
+        <item>d</item>
+        <item>l</item>
+        <item>m</item>
+    </string-array>
+
+    <string-array name="dayArrayMi">
+        <item>j</item>
+        <item>v</item>
+        <item>s</item>
+        <item>d</item>
+        <item>l</item>
+        <item>m</item>
+        <item>m</item>
+    </string-array>
+
+    <string-array name="dayArrayJ">
+        <item>j</item>
+        <item>v</item>
+        <item>s</item>
+        <item>d</item>
+        <item>l</item>
+        <item>m</item>
+        <item>m</item>
+    </string-array>
+
+    <string-array name="dayArrayV">
+        <item>s</item>
+        <item>d</item>
+        <item>l</item>
+        <item>m</item>
+        <item>m</item>
+        <item>j</item>
+        <item>v</item>
+    </string-array>
+
+    <string-array name="dayArrayS">
+        <item>d</item>
+        <item>l</item>
+        <item>m</item>
+        <item>m</item>
+        <item>j</item>
+        <item>v</item>
+        <item>s</item>
+    </string-array>
+
+    <string-array name="monthNames">
+        <item>ene</item>
+        <item>febr</item>
+        <item>mar</item>
+        <item>abr</item>
+        <item>may</item>
+        <item>jun</item>
+        <item>jul</item>
+        <item>agos</item>
+        <item>sept</item>
+        <item>oct</item>
+        <item>nov</item>
+        <item>dic</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bater_a_baja">Batería Baja</string>
+    <string name="nueva_medici_n">Nueva Medición</string>
+    <string name="nuevo_marcador">Nuevo Marcador</string>
+    <string name="connection_lost">Connection Lost</string>
+    <string name="itemmeasure">ItemMeasure</string>
+    <string name="este_mes_de_media">Este mes de media</string>
+    <string name="este_mes">Este mes</string>
+    <string name="cantidad_de_d_as_que_dorm">Cantidad de días que dormí ...</string>
+    <string name="m_s_de_8hs">Más de 8hs</string>
+
+    <!--BLE Strings-->
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="mldp_not_supported">MLDP is not supported</string>
+    <string name="label_device">Device: </string>
+    <string name="label_state">State: </string>
+    <string name="unknown">Unknown</string>
+    <string name="no_data">No data</string>
+    <string name="label_incoming">Incoming: </string>
+    <string name="label_outgoing">Outgoing: </string>
+    <string name="send">Send</string>
+    <string name="clear">Clear</string>
+    <string name="enabling_bluetooth">Enabling Bluetooth</string>
+    <string name="connecting">Connecting</string>
+    <string name="connected">Connected</string>
+    <string name="disconnecting">Disconnecting</string>
+    <string name="not_connected">Not Connected</string>
+    <string name="scan_for_devices">Scan for Devices</string>
+    <string name="text_to_send">Text to send</string>
+    <string name="no_devices_found">No devices found</string>
+
+    <!-- Menu items for MldpBluetoothScanActivity -->
+    <string name="menu_scan">Scan</string>
+    <string name="always_connect_to_selected_device">Always connect to selected device</string>
+
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F6F7EB</color>
+    <color name="colorPrimaryDark">#565554</color>
+    <color name="colorAccent">#D1122C</color>
+
+    <color name="colorNavigator">#D33047</color>
+    <color name="colorBackground">#F6F7EB</color>
+    <color name="colorText">#565554</color>
+
+    <color name="colorHeartRate">#2589BD</color>
+    <color name="colorHeartRateDarker">#175475</color>
+    <color name="colorHeartRateBackgroundChart">#0c3d57</color>
+
+    <color name="colorSPO">#4BC6B9</color>
+    <color name="colorSPODarker">#29726B</color>
+    <color name="colorSPOBackgroundChart">#114742</color>
+
+    <color name="colorSleep">#9368B7</color>
+    <color name="colorSleepDarker">#664682</color>
+    <color name="colorSleepBackgroundChar">#310457</color>
+    <color name="colorSleepBars">#9882AC</color>
+    <color name="colorSleepBarsGradient">#5D4F69</color>
+    <color name="colorSleepMonth">#200636</color>
+</resources>

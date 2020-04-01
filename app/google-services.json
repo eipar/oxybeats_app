@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "831399401705",
+    "firebase_url": "https://oxybeats-v01.firebaseio.com",
+    "project_id": "oxybeats-v01",
+    "storage_bucket": "oxybeats-v01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831399401705:android:82e9c5ad697d5ffc",
+        "android_client_info": {
+          "package_name": "oxybeats.app.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831399401705-dlpsumkpgo2aiuj2pa5em003eq34qamb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6aAsqnldg7tB1phWIk5HXUwYpnDkTfIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831399401705-dlpsumkpgo2aiuj2pa5em003eq34qamb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
